@@ -1,6 +1,7 @@
 # Hidden-Markov-Model
 隠れマルコフモデル用コード
 モデルは以下
+![モデルの図](https://github.com/kyamada101/Hidden-Markov-Model/)
 
 ## viterbi.py
 viterbiアルゴリズムによる最適パスの計算
