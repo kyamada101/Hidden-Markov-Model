@@ -1,5 +1,6 @@
 # Hidden-Markov-Model
 隠れマルコフモデル用コード  
+元々はバイオインフォマティクス特論のレポート用に作成したコード  
 モデルは以下  
 ![モデルの図](https://github.com/kyamada101/Hidden-Markov-Model/blob/master/%E3%81%84%E3%81%8B%E3%81%95%E3%81%BE%E3%81%95%E3%81%84%E3%81%93%E3%82%8D%E3%81%AE%E3%82%BA.jpg)
 
